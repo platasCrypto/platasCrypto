@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/platas_crypto)](https://twitter.com/platas_crypto)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeplatasfeced)](https://www.linkedin.com/in/jorgeplatasfeced)
 
-:student: I'm a Computer Science Engineer (graduated at [Carlos III University of Madrid](https://www.uc3m.es)) with a Masters in Computer Science for Cyber Security in Oxford, United Kingdom (at [Oxford Brookes University](https://www.brookes.ac.uk)).</br>
+:student: I'm a Computer Science Engineer (graduated at [Carlos III University of Madrid](https://www.uc3m.es)) with a Masters in Computer Science for Cyber Security in Oxford, United Kingdom (graduated at [Oxford Brookes University](https://www.brookes.ac.uk)).</br>
 :briefcase: During my bachleros degree I worked as a web developer for 2+ years and 1 year as a Computer Engineer Intern at the University. I've been working 1 year as a CTO at [DFSocial](https://www.dfsocial.com), a blockchain-based gaming startup. I'm currently looking for new opportunities in the cybersecurity and blockchain fields while I work part-time as a Full-Stack Developer at [Worksible](https://worksible.com), a Spanish freelancers' marketplace.</br>
 
 <a href="https://github.com/platasCrypto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=platasCrypto&theme=github_dark&layout=compact&hide_border=true" /></a>

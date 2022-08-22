@@ -4,7 +4,7 @@
 
 </br>
 
-### Hi there 👋 I'm platasCrypto, a blockchain & cybersecurity lover!
+### Hi there 👋 I'm PlatasCrypto, a blockchain & cybersecurity lover!
 
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/platasCrypto)](https://github.com/platasCrypto?tab=repositories)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/platas_crypto)](https://twitter.com/platas_crypto)

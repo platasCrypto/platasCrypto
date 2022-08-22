@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1357285972287840258/1651480593/600x200" width="900" height="300"/>
+  <img src="https://pbs.twimg.com/profile_banners/1357285972287840258/1651480593/600x200" width="100%" height="auto"/>
 </div>
 
 </br>

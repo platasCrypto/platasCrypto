@@ -6,7 +6,7 @@
 
 ### Hi there 👋 I'm platasCrypto, a blockchain & cybersecurity lover!
 
-[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/platasCrypto)](https://github.com/platasCrypto)
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/platasCrypto)](https://github.com/platasCrypto?tab=repositories)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/platas_crypto)](https://twitter.com/platas_crypto)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeplatasfeced)](https://www.linkedin.com/in/jorgeplatasfeced)
 
@@ -29,11 +29,11 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Kali Linux](https://img.shields.io/badge/-KaliLinux-black?style=flat-square&logo=kaliLinux)
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-black?style=flat-square&logo=kaliLinux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
